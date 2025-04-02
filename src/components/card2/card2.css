@@ -1,0 +1,35 @@
+
+
+
+
+.cardContainer {
+    margin: auto;
+}
+
+
+.card {
+    width: 500px;
+    height: 600px;
+}
+
+.img {
+    display: flex;
+    padding: 30px 20px;
+    width: 450px;
+    margin-bottom: 20px;
+}
+
+.img img {
+    width: 400px;
+    height: 250px;
+    margin: auto;
+}
+
+span {
+    margin: 5px;
+    padding: 5px;
+    background-color: rgba(128, 128, 128, 0.25);
+}
+
+
+

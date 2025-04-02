@@ -1,0 +1,36 @@
+.services {
+    max-width: 100%;
+    width: 85%;
+    margin: auto;
+}
+
+
+.services h2 {
+    font-size: 50px;
+    margin: 0;
+    color: rgb(26, 26, 26);
+}
+
+.allServices {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 50px;
+}
+
+.eachService {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.eachService h3 {
+    font-size: 25px;
+    color: rgb(26, 26, 26);
+}
+
+.eachService p {
+    color: rgb(111, 110, 110);
+}

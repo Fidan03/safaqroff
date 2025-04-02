@@ -1,0 +1,26 @@
+
+
+
+
+.videoContainer {
+    margin: auto;
+}
+
+
+.card {
+    width: 500px;
+    height: 600px;
+}
+
+video {
+    display: flex;
+    padding: 30px 20px;
+    width: 450px;
+    margin-bottom: 20px;
+}
+
+span {
+    margin: 5px;
+    padding: 5px;
+    background-color: rgba(128, 128, 128, 0.25);
+}
